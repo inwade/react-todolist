@@ -1,0 +1,16 @@
+.intro-box {
+    background-color: white;
+    height:600px;
+}
+
+@media (max-width:768px) {
+    .intro-box {
+        height:350px;
+    }
+}
+
+@media (max-width: 992px) {
+    .intro-box {
+        height:450px;
+    }
+}
